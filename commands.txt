@@ -1,0 +1,10 @@
+git init - to create repository
+
+git remote add origin "github location link"
+
+get pull origin master - puuling file from remote server
+
+git status
+
+how to add an index
+git add 
